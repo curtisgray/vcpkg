@@ -1,0 +1,5 @@
+{
+	"name": "stun",
+	"version-string": "1.2.13",
+	"description": "STUN library, client, and server, written in C++, for getting NAT type and external IP. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Supports both UDP and TCP on both IPv4 and IPv6."
+  }
